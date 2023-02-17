@@ -1,0 +1,11 @@
+Model Information:
+* title:	Light Test 5 - Animating Emissive Light
+* source:	https://sketchfab.com/3d-models/light-test-5-animating-emissive-light-3ded3c85d0b449b2ab5022e4b866b4e6
+* author:	Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Light Test 5 - Animating Emissive Light" (https://sketchfab.com/3d-models/light-test-5-animating-emissive-light-3ded3c85d0b449b2ab5022e4b866b4e6) by Tycho Magnetic Anomaly (https://sketchfab.com/Tycho_Magnetic_Anomaly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
